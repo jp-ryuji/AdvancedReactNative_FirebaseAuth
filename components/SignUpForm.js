@@ -16,7 +16,6 @@ class SignUpForm extends Component {
   //   this.state = { phone: '' };
   // }
 
-
   // NOTE: With ES2017, the arrow function takes care of 'this'.
   //   So you don't need to use bind(this).
   //   Then you can write this.handleSubmit instead of this.handleSubmit.bind(this).
